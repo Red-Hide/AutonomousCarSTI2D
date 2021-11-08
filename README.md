@@ -6,7 +6,6 @@ If you want to continue this project, only the autonomous part is currently not 
 # Schematic
 
 ![Schematic](/Schematic.jpg)
-Format: ![Schematic](url)
 
 
 
